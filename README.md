@@ -2,7 +2,7 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeusseinGrossopa&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true" alt="Zeus's Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeusseinGrossopa&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&hide=issues,stars&custom_title=Github Stats" alt="Zeus's Stats"/>
 
 <hr>
 
