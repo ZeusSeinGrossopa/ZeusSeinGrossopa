@@ -2,7 +2,11 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeusseinGrossopa&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&hide=issues,stars&custom_title=Github Stats" alt="Zeus's Stats"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZeusseinGrossopa&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&hide=issues,stars&custom_title=Github Stats" alt="Zeus's Stats"/>
+</p>
+
+
 
 <hr>
 
@@ -34,3 +38,4 @@
     <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave">&nbsp;&nbsp;    
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZeusSeinGrossopa&area=true&hide_border=true&theme=gotham)  
