@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZeusseinGrossopa&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&hide=issues,stars&custom_title=Github Stats" alt="Zeus's Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZeusseinGrossopa&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Zeus's Stats"/>
 </p>
 
 
