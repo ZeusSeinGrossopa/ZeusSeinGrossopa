@@ -1,4 +1,7 @@
-<h1 align="center">Hey, I'm Levin 👩‍💻</h1>
+<h1 align="center">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=5500&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Levin%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
 
 <hr>
 
@@ -42,3 +45,4 @@
     <img src="https://streak-stats.demolab.com?user=ZeusSeinGrossopa&theme=tokyonight_duo&hide_border=true&border_radius=20" alt="Zeus's Stats"/>
 </p>
 
+---
