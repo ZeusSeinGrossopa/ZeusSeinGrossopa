@@ -1,5 +1,6 @@
 <h1 align="center">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=F7F7F7&width=240&lines=Hey%2C+I'm+Levin%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+     
 </h1>
 
 
@@ -39,10 +40,19 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
 </p>
 
+---
+
+
+<h1 align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ZeusSeinGrossopa/count.svg" />
+</h1>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZeusSeinGrossopa&area=true&hide_border=true&theme=gotham)  
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=ZeusSeinGrossopa&theme=tokyonight_duo&hide_border=true&border_radius=20" alt="Zeus's Stats"/>
 </p>
+
 
 ---
