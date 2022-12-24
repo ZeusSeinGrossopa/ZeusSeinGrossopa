@@ -48,7 +48,7 @@
   <img src="https://profile-counter.glitch.me/ZeusSeinGrossopa/count.svg" />
 </h1>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZeusSeinGrossopa&area=true&hide_border=true&theme=gotham)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZeusSeinGrossopa&area=true&hide_border=true&theme=gotham)  
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=ZeusSeinGrossopa&theme=tokyonight_duo&hide_border=true&border_radius=20" alt="Zeus's Stats"/>
