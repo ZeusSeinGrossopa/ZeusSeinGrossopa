@@ -11,8 +11,11 @@
 <h4 align="center">🔭  Languages and Frameworks ...</h4>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-C++-blue?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
 </p>
 <hr>
 
@@ -21,7 +24,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white" alt="Ubuntu">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/IOS-3DDC84?style=for-the-badge&logo=ios&logoColor=white" alt="Android">&nbsp;&nbsp;
 </p>
 <hr>
 
